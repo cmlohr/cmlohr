@@ -1,3 +1,8 @@
+<div align = 'right'>  
+  
+  ![](https://komarev.com/ghpvc/?username=cmlohr&color=orange)  
+  
+</div>
 <div align='center'>
   
   ![cmlohr header](assets/logo.gif)
@@ -21,7 +26,7 @@ I'm Colleen, a software engineer.
  
  <hr>
 
-### Who I am: <div align = 'right'>![](https://komarev.com/ghpvc/?username=cmlohr&color=orange)</div>
+### Who I am:
 
 ## I'm a full stack software engineer, technology enthusiast, and cat mom!  
 
