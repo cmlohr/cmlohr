@@ -1,18 +1,100 @@
-### Hi there 👋
+<div align='center'>
+  
+  ![cmlohr header](assets/logo.gif)
+  
+</div>
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Colleen, a software engineer.
 
-<!--
-**cmlohr/cmlohr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align='center'><a align='center' alt="hello@cmlohr.dev" href="mailto:hello@cmlohr.dev">Let's connect!</a></h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align='center'>  
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://www.twitter.com/cmlohr)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmlohr/)  
+  
+  
+</div>
+</p>
+ 
+ <hr>
 
-[![Colleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmlohr)](https://github.com/cmlohr/github-readme-stats)
+### Who I am: <div align = 'right'>![](https://komarev.com/ghpvc/?username=cmlohr&color=orange)</div>
+
+## I'm a full stack software engineer, technology enthusiast, and cat mom!  
+
+- :fleur_de_lis: I'm from New Orleans, Louisiana USA.
+- :woman_technologist: I'm working fulltime as a freelancer and always open to connect.
+- :books: I’m currently expanding my knowledge base in Java and Machine Learning.
+- :vulcan_salute: I’m looking to collaborate with other developers.
+- :thinking: Goals: Contribute more to Open Source projects.
+- :ramen: My hobbies include electrical engineering, CSS art for fun, cooking spicy noodles and cats.
+
+
+<hr>
+
+### My Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+<!-- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
+<!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) -->
+<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
+<!--![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) -->
+
+<br />
+
+### Tools of the Trade:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
+![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+
+<br />
+<br />
+<hr>
+
+### :smiling_face_with_three_hearts: Favorite Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=cheap-flight-sms&theme=darcula)](https://github.com/cmlohr/cheap-flight-sms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=GUI-password-manager&theme=darcula)](https://github.com/cmlohr/cheap-flight-sms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=py-random-walker&theme=darcula)](https://github.com/cmlohr/cheap-flight-sms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=vim-startify-cat&theme=darcula)](https://github.com/cmlohr/cheap-flight-sms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=coffee-machine&theme=darcula)](https://github.com/cmlohr/cheap-flight-sms)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=Hover-responsive-particle-landing&theme=darcula)](https://github.com/cmlohr/cheap-flight-sms)  
+
+### :zap: GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmlohr&theme=darcula&langs_count=3)](https://github.com/cmlohr/github-readme-stats)[![Colleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmlohr&theme=darcula&count_private=true&show_icons=true&line_height=27)](https://github.com/cmlohr/github-readme-stats)  
+
+
