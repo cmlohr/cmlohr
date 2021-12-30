@@ -1,6 +1,8 @@
-<div align = 'right'>  
-  
-  ![](https://komarev.com/ghpvc/?username=cmlohr&color=orange)  
+<div align = 'center'>  
+
+<!--   ![](https://komarev.com/ghpvc/?username=cmlohr&color=orange)   -->
+  <!--  ^^ broken counter ^^  -->
+  ![Visitor Count](https://profile-counter.glitch.me/{cmlohr}/count.svg)
   
 </div>
 <div align='center'>
@@ -11,20 +13,7 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Colleen, a software engineer.
-
-<h3 align='center'><a align='center' alt="hello@cmlohr.dev" href="mailto:hello@cmlohr.dev">Let's connect!</a></h3>
-
-
-<div align='center'>  
-  
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://www.twitter.com/cmlohr)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmlohr/)  
-  
-  
-</div>
-</p>
- 
- <hr>
+</p>  
 
 ### Who I am:
 
@@ -37,7 +26,16 @@ I'm Colleen, a software engineer.
 - :thinking: Goals: Contribute more to Open Source projects.
 - :ramen: My hobbies include electrical engineering, CSS art for fun, cooking spicy noodles and cats.
 
+<h3 align='center'><a align='center' alt="hello@cmlohr.dev" href="mailto:hello@cmlohr.dev">Let's connect!</a></h3>
 
+
+<div align='center'>  
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://www.twitter.com/cmlohr)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmlohr/)  
+  
+  
+</div>
 <hr>
 
 ### My Stack:
