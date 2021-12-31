@@ -90,12 +90,12 @@ I'm Colleen, a software engineer.
 
 ### :smiling_face_with_three_hearts: Favorite Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=cheap-flight-sms&theme=chartreuse-dark)](https://github.com/cmlohr/cheap-flight-sms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=GUI-password-manager&theme=chartreuse-dark)](https://github.com/cmlohr/cheap-flight-sms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=py-random-walker&theme=chartreuse-dark)](https://github.com/cmlohr/cheap-flight-sms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=vim-startify-cat&theme=chartreuse-dark)](https://github.com/cmlohr/cheap-flight-sms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=coffee-machine&theme=chartreuse-dark)](https://github.com/cmlohr/cheap-flight-sms)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=Hover-responsive-particle-landing&theme=chartreuse-dark)](https://github.com/cmlohr/cheap-flight-sms)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=My-OS&theme=chartreuse-dark)](https://github.com/cmlohr/My-OS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=GUI-password-manager&theme=chartreuse-dark)](https://github.com/cmlohr/GUI-password-manager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=py-random-walker&theme=chartreuse-dark)](https://github.com/cmlohr/py-random-walker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=vim-startify-cat&theme=chartreuse-dark)](https://github.com/cmlohr/vim-startify-cat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=coffee-machine&theme=chartreuse-dark)](https://github.com/cmlohr/coffee-machine)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=Hover-responsive-particle-landing&theme=chartreuse-dark)](https://github.com/cmlohr/Hover-responsive-particle-landing)  
 
 ### :zap: GitHub Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmlohr&theme=chartreuse-dark&langs_count=3)](https://github.com/cmlohr/github-readme-stats)[![Colleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmlohr&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=27)](https://github.com/cmlohr/github-readme-stats)  
