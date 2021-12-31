@@ -26,14 +26,14 @@ I'm Colleen, a software engineer.
 - :thinking: Goals: Contribute more to Open Source projects.
 - :ramen: My hobbies include electrical engineering, CSS art for fun, cooking spicy noodles and cats.
 
-<h3 align='center'><a align='center' alt="hello@cmlohr.dev" href="mailto:hello@cmlohr.dev">Lets connect & build something cool!</a></h3>
+<h3 align='center'>Lets connect & build something cool!</h3>
 
 
 <div align='center'>  
   
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://www.twitter.com/cmlohr)  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmlohr/)  
-  
+  <h3 align='center'>Email:  <a align='center' alt="hello@cmlohr.dev" href="mailto:hello@cmlohr.dev">hello@cmlohr.dev</a></h3>
   
 </div>
 <hr>
