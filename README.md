@@ -26,7 +26,7 @@ I'm Colleen, a software engineer.
 - :thinking: Goals: Contribute more to Open Source projects.
 - :ramen: My hobbies include electrical engineering, CSS art for fun, cooking spicy noodles and cats.
 
-<h3 align='center'><a align='center' alt="hello@cmlohr.dev" href="mailto:hello@cmlohr.dev">Let's connect!</a></h3>
+<h3 align='center'><a align='center' alt="hello@cmlohr.dev" href="mailto:hello@cmlohr.dev">Lets connect & build something cool!</a></h3>
 
 
 <div align='center'>  
