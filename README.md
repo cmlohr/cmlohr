@@ -32,7 +32,8 @@ I'm Colleen, a software engineer.
 <div align='center'>  
   
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://www.twitter.com/cmlohr)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmlohr/)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmlohr/)
+  <h3 align='center'>&nbsp;>&nbsp;>&nbsp;>&nbsp;<a align='center' alt='link to my cv' href="https://cmlohr.dev/cv.html">My CV</a>&nbsp;<&nbsp;<&nbsp;<&nbsp;</h3>
   <h3 align='center'>Email:  <a align='center' alt="hello@cmlohr.dev" href="mailto:hello@cmlohr.dev">hello@cmlohr.dev</a></h3>
   
 </div>
