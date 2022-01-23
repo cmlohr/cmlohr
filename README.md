@@ -1,8 +1,8 @@
+<!-- Badges: https://github.com/Ileriayo/markdown-badges -->
 <div align = 'center'>  
 
-<!--   ![](https://komarev.com/ghpvc/?username=cmlohr&color=orange)   -->
-  <!--  ^^ broken counter ^^  -->
-  ![Visitor Count](https://profile-counter.glitch.me/{cmlohr}/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/{cmlohr}/count.svg)
   
 </div>
 <div align='center'>
@@ -47,6 +47,7 @@ I'm Colleen, a software engineer.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
