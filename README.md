@@ -20,11 +20,10 @@ I'm Colleen, a software engineer.
 ## I'm a full stack software engineer, technology enthusiast, and cat mom!  
 
 - :fleur_de_lis: I'm from New Orleans, Louisiana USA.
-- :woman_technologist: I'm working fulltime as a freelancer and always open to connect.
-- :books: I’m currently expanding my knowledge base in Java and Machine Learning.
-- :vulcan_salute: I’m looking to collaborate with other developers.
+- :woman_technologist: I'm working fulltime as a Senior Software Engineer and Technical Director.
+- :vulcan_salute: I’m always looking to collaborate with other developers.
 - :thinking: Goals: Contribute more to Open Source projects.
-- :ramen: My hobbies include electrical engineering, CSS art for fun, cooking spicy noodles and cats.
+- :ramen: My hobbies include electrical engineering and CSS art for fun.
 
 <h3 align='center'>Lets connect & build something cool!</h3>
 
@@ -33,8 +32,8 @@ I'm Colleen, a software engineer.
   
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://www.twitter.com/cmlohr)  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cmlohr/)
-  <h3 align='center'>&nbsp;>&nbsp;>&nbsp;>&nbsp;<a align='center' alt='link to my cv' href="https://www.cmlohr.dev/cv.html">My CV</a>&nbsp;<&nbsp;<&nbsp;<&nbsp;</h3>
-  <h3 align='center'>Email:  <a align='center' alt="hello@cmlohr.dev" href="mailto:hello@cmlohr.dev">hello@cmlohr.dev</a></h3>
+<!--   <h3 align='center'>&nbsp;>&nbsp;>&nbsp;>&nbsp;<a align='center' alt='link to my cv' href="https://www.cmlohr.dev/cv.html">My CV</a>&nbsp;<&nbsp;<&nbsp;<&nbsp;</h3> -->
+  <h3 align='center'>Email:  <a align='center' alt="cmlohr@outlook.com" href="mailto:cmlohr@outlook.com">hello@cmlohr.dev</a></h3>
   
 </div>
 <hr>
