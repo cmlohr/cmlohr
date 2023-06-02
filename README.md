@@ -10,8 +10,8 @@
   ![cmlohr header](assets/logo.gif)
   
 </div>
-<h1 align='center'> Hi! :wave:</h1>
-<h1 style="font-weight: 700;", align='center'>
+<h1 align='center'> Hi! :wave:
+  <br/>
 I'm Colleen, a software engineer.
 </h1>  
 
