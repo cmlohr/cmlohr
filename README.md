@@ -11,8 +11,8 @@
   
 </div>
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-###I'm Colleen, a software engineer.
+<p style="font-weight: bold;", align='center'>
+I'm Colleen, a software engineer.
 </p>  
 
 #### With over twenty years of industry experience, I am an accomplished Full Stack Software Engineer who specializes in streamlining operations and automating processes. As a Technical Director and Senior Software Engineer, I maintain and update legacy systems, seek out opportunities for automation, and continuously strive to optimize processes. 
