@@ -17,7 +17,7 @@ I'm Colleen, a software engineer.
 
 ## Who I am:
 
-### With 20 years experiance I'm a full stack software engineer specializing in automation and operational optimization.  
+### With 20 years experiance I'm a senior full stack software engineer specializing in automation and operational optimization.  Currently I'm a Technical Director and senior software engineer where I maintain some legacy systems, upgrade others, automate where applicable and overall my goal is to optimize all our processes.  
 
 - :fleur_de_lis: I'm from New Orleans, Louisiana USA.
 - :woman_technologist: I'm working fulltime as a Senior Software Engineer and Technical Director.
