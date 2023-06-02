@@ -15,15 +15,15 @@
 I'm Colleen, a software engineer.
 </p>  
 
-### Who I am:
+## Who I am:
 
-## I'm a full stack software engineer, technology enthusiast, and cat mom!  
+### With 20 years experiance I'm a full stack software engineer specializing in automation and operational optimization.  
 
 - :fleur_de_lis: I'm from New Orleans, Louisiana USA.
 - :woman_technologist: I'm working fulltime as a Senior Software Engineer and Technical Director.
 - :vulcan_salute: I’m always looking to collaborate with other developers.
 - :thinking: Goals: Contribute more to Open Source projects.
-- :ramen: My hobbies include electrical engineering and CSS art for fun.
+- :ramen: My hobbies include electrical engineering, programming side projects and CSS art for fun.
 
 <h3 align='center'>Lets connect & build something cool!</h3>
 
@@ -98,7 +98,7 @@ I'm Colleen, a software engineer.
 ### :smiling_face_with_three_hearts: Favorite Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=My-OS&theme=chartreuse-dark)](https://github.com/cmlohr/My-OS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=Video-Game-Database&theme=chartreuse-dark)](https://github.com/cmlohr/Video-Game-Database)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=GUI-gpt-4&theme=chartreuse-dark)](https://github.com/cmlohr/GUI-gpt-4)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=py-random-walker&theme=chartreuse-dark)](https://github.com/cmlohr/py-random-walker)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=vim-startify-cat&theme=chartreuse-dark)](https://github.com/cmlohr/vim-startify-cat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=coffee-machine&theme=chartreuse-dark)](https://github.com/cmlohr/coffee-machine)
