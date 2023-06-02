@@ -11,7 +11,7 @@
   
 </div>
 <h1 align='center'> Hi! :wave:</h1>
-<p style="font-weight: bold;", align='center'>
+<p style="font-weight: 700;", align='center'>
 I'm Colleen, a software engineer.
 </p>  
 
