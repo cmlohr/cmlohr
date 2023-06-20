@@ -104,8 +104,8 @@ I'm Colleen, a software engineer.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=vim-startify-cat&theme=chartreuse-dark)](https://github.com/cmlohr/vim-startify-cat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=coffee-machine&theme=chartreuse-dark)](https://github.com/cmlohr/coffee-machine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=Hover-responsive-particle-landing&theme=chartreuse-dark)](https://github.com/cmlohr/Hover-responsive-particle-landing)  
-
+<!--
 ### :zap: GitHub Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmlohr&theme=chartreuse-dark&langs_count=3)](https://github.com/cmlohr/github-readme-stats)[![Colleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmlohr&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=27)](https://github.com/cmlohr/github-readme-stats)  
-
+-->
 
