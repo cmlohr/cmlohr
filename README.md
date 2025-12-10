@@ -65,8 +65,8 @@ I'm Colleen, a software engineer.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
-![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
+<!--![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)-->
+<!--![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)-->
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -92,19 +92,17 @@ I'm Colleen, a software engineer.
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
-<br />
-<br />
-<hr>
 
 
-### :smiling_face_with_three_hearts: Favorite Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=My-OS&theme=chartreuse-dark)](https://github.com/cmlohr/My-OS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=GUI-gpt-4&theme=chartreuse-dark)](https://github.com/cmlohr/GUI-gpt-4)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=py-random-walker&theme=chartreuse-dark)](https://github.com/cmlohr/py-random-walker)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=vim-startify-cat&theme=chartreuse-dark)](https://github.com/cmlohr/vim-startify-cat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=coffee-machine&theme=chartreuse-dark)](https://github.com/cmlohr/coffee-machine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=Hover-responsive-particle-landing&theme=chartreuse-dark)](https://github.com/cmlohr/Hover-responsive-particle-landing)  
+<!--### :smiling_face_with_three_hearts: Favorite Projects-->
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=My-OS&theme=chartreuse-dark)](https://github.com/cmlohr/My-OS)-->
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=GUI-gpt-4&theme=chartreuse-dark)](https://github.com/cmlohr/GUI-gpt-4)-->
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=py-random-walker&theme=chartreuse-dark)](https://github.com/cmlohr/py-random-walker)-->
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=vim-startify-cat&theme=chartreuse-dark)](https://github.com/cmlohr/vim-startify-cat)-->
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=coffee-machine&theme=chartreuse-dark)](https://github.com/cmlohr/coffee-machine)-->
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cmlohr&repo=Hover-responsive-particle-landing&theme=chartreuse-dark)](https://github.com/cmlohr/Hover-responsive-particle-landing)  -->
 <!-- 
 ### :zap: GitHub Stats
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmlohr&theme=chartreuse-dark&langs_count=3)](https://github.com/cmlohr/github-readme-stats)[![Colleen's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmlohr&theme=chartreuse-dark&count_private=true&show_icons=true&line_height=27)](https://github.com/cmlohr/github-readme-stats)  
