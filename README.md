@@ -2,7 +2,8 @@
 <div align = 'center'>  
 
 
-![Visitor Count](https://profile-counter.glitch.me/{cmlohr}/count.svg)
+<!--  ![Visitor Count](https://profile-counter.glitch.me/{cmlohr}/count.svg) -->
+  <h3 align='center'>Email:  <a align='center' alt="cmlohr@outlook.com" href="mailto:cmlohr@outlook.com">cmlohr@outlook.com</a></h3>
   
 </div>
 <div align='center'>
